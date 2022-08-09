@@ -20,3 +20,6 @@ O projeto visa aplicar conceitos da matéria de Banco de Dados. Criando um siste
 
 ## Modelo Lógico
 ![image](https://user-images.githubusercontent.com/38474570/182737212-4f21f4ca-28ba-491a-bde2-14dcd99c554a.png)
+
+## Modelo Físico
+![image](https://user-images.githubusercontent.com/38474570/183547790-bdac03b5-2c03-4071-84a2-614c4611313b.png)
