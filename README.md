@@ -1,6 +1,5 @@
 # Clinica Odontológica
 
-## Sobre o projeto
 O projeto visa aplicar conceitos da matéria de Banco de Dados. Criando um sistema para agendamento de uma clinica odontológica.
 
   * Visa organizar o fluxo de atendimento de uma clinica odontológica;
