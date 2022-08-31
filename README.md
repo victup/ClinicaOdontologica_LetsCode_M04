@@ -8,7 +8,7 @@ O projeto visa aplicar conceitos da matéria de Banco de Dados. Criando um siste
   * Ajuda a criar gráficos de desempenho dos profissionais;
   * Organiza a agenda diária da clinica;
   * Etc. 
-
+ 
 ## Sobre a descrição do projeto:
 ### Descrição
 
